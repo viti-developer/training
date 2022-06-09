@@ -1,2 +1,2 @@
 # training
-php
+python and java script
